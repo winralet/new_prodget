@@ -1,6 +1,4 @@
 from flask import Flask
-from data import db_session
-from data.users import User
 
 app = Flask(__name__)
 
